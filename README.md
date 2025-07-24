@@ -1,8 +1,9 @@
-# LetterLater ✉️
+# LetterLater ✉️　
+> 🇯🇵 日本語版はこちら → [README.ja.md](./README.ja.md)
 
 **LetterLater** is a web application that allows users to write messages to their future selves, schedule delivery dates, and view message history. It is designed as a portfolio project built with React, Firebase, and modern UI/UX techniques.
 
-> 🇯🇵 日本語版はこちら → [README.ja.md](./README.ja.md)
+👉 **Live Demo**: [https://letterlater.netlify.app](https://letterlater.netlify.app)
 
 ---
 
