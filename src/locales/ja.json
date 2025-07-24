@@ -1,0 +1,103 @@
+{
+  "welcome": "FutureMe+ へようこそ",
+  "write": "手紙を書く",
+  "signin": {
+    "google": "Googleアカウントでログイン"
+  },
+  "signout": "ログアウト",
+  "welcomeUser": "{{name}} さん、ようこそ",
+  "home": {
+    "title": "未来のあなたへ手紙を送ろう",
+    "description": "数ヶ月後、数年後の自分に手紙を書いて、未来で受け取る体験をしましょう。",
+    "cta": "手紙を書く",
+    "feature1Title": "自分だけのメッセージ",
+    "feature1Desc": "誰にも見られず、自分だけに届く手紙を未来に届けられます。",
+    "feature2Title": "自由な日時指定",
+    "feature2Desc": "1日後でも10年後でも、好きな日付を選べます。",
+    "feature3Title": "安心のプライバシー",
+    "feature3Desc": "Googleログインを使って安全に管理・保存します。",
+    "featuresTitle": "このアプリでできること",
+    "feedback": {
+      "title": "ユーザーの声",
+      "recommend": "おすすめ度",
+      "minami": {
+        "location": "東京・日本",
+        "message": "未来へのメッセージが、これほどまでに特別だとは思いませんでした。"
+      },
+      "marcus": {
+        "location": "ロンドン・イングランド",
+        "message": "忘れた頃に届く手紙は、いつも心に響きます。"
+      },
+      "emily": {
+        "location": "ニューヨーク・アメリカ",
+        "message": "シンプルで感動的、デザインも素晴らしいです。"
+      },
+      "kim": {
+        "location": "ソウル・韓国",
+        "message": "未来の自分に手紙を書くことで、今の自分を見つめ直すことができました。"
+      },
+      "alex": {
+        "location": "ブリスベン・オーストラリア",
+        "message": "もう少し充実した機能があると嬉しいですが、必要最低限は揃っているので悪くはない。"
+      }
+    }
+  },
+  "form": {
+    "title": "未来の自分に手紙を書く",
+    "to": "タイトル",
+    "message": "本文",
+    "date": "送信日",
+    "language": "言語",
+    "send": "未来に送る",
+    "validation": "すべての項目を入力してください。",
+    "submitted": "メッセージを保存しました！",
+    "requireLogin": "メッセージを送信するにはログインしてください。",
+    "submitFailed": "送信に失敗しました。もう一度お試しください。",
+    "goToLogin": "ログイン画面へ",
+    "writeMessageTitle": "大切な自分への手紙を書きましょう",
+    "subText": "あなたの想いを、未来に届けましょう。",
+    "loginRequiredMessage": "手紙を送信するにはログインが必要です。ログイン後に送信が可能になります。"
+  },
+  "form.selectDate": "日付を選択してください",
+  "form.validation.requiredTitle": "タイトルは必須です",
+  "form.validation.maxTitle": "タイトルは30文字以内で入力してください",
+  "form.validation.requiredBody": "本文は必須です",
+  "form.validation.maxBody": "本文は1000文字以内で入力してください",
+  "form.validation.requiredDate": "送信日は必須です",
+  "form.validation.invalidDate": "有効な日付を入力してください",
+  "form.validation.futureOnly": "送信日は今日以降を選択してください",
+  "nav": {
+    "home": "ホーム",
+    "write": "手紙を書く",
+    "history": "メッセージ履歴"
+  },
+  "history": {
+    "title": "メッセージ履歴",
+    "sentDate": "送信日",
+    "view": "表示",
+    "delete": "削除",
+    "deleted": "メッセージを削除しました。",
+    "deleteError": "削除に失敗しました。",
+    "confirmDelete": "このメッセージを削除しますか？",
+    "requireLogin": "メッセージ履歴を見るにはログインが必要です",
+    "empty": "メッセージがありません。",
+    "comeBackLater": "送信したらメッセージを確認してください"
+  },
+  "loading": "読み込み中...",
+  "view": {
+    "unauthorized": "このメッセージを見る権限がありません。",
+    "sentDate": "送信日",
+    "backToHistory": "履歴に戻る",
+    "notYet": "このメッセージはまだ閲覧できません。送信予定日までお待ちください。",
+    "openingMessage": "あなた宛の手紙を開封しました"
+  },
+  "history.confirmDeleteTitle": "メッセージの削除",
+  "history.confirmDelete": "本当にこのメッセージを削除しますか？この操作は取り消せません。",
+  "cancel": "キャンセル",
+  "delete": "削除",
+  "notFound": {
+    "title": "ページが見つかりません",
+    "message": "お探しのページは存在しないか、移動された可能性があります。",
+    "backHome": "ホームへ戻る"
+  }
+}

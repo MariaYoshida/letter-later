@@ -1,0 +1,103 @@
+{
+  "welcome": "Welcome to FutureMe+",
+  "write": "Write a letter",
+  "signin": {
+    "google": "Sign in with Google"
+  },
+  "signout": "Sign out",
+  "welcomeUser": "Welcome, {{name}}",
+  "home": {
+    "title": "Send a letter to future of yourself",
+    "description": "Write to yourself a few months or years ahead and experience receiving it in the future",
+    "cta": "Write a Letter now",
+    "feature1Title": "Private Messages",
+    "feature1Desc": "Send messages only you can see, delivered in the future",
+    "feature2Title": "Flexible Delivery",
+    "feature2Desc": "Choose any date – tomorrow or 10 years later",
+    "feature3Title": "Secure & Private",
+    "feature3Desc": "Securely managed with Google login",
+    "featuresTitle": "What you can do with this app",
+    "feedback": {
+      "title": "Feedback",
+      "recommend": "Recommended",
+      "minami": {
+        "location": "Tokyo, Japan",
+        "message": "Sending a message to the future has never felt so personal."
+      },
+      "marcus": {
+        "location": "London, England",
+        "message": "An unexpected letter always touches the heart."
+      },
+      "emily": {
+        "location": "New York, USA",
+        "message": "Simple, emotional, and beautifully designed."
+      },
+      "kim": {
+        "location": "Seoul, Korea",
+        "message": "Writing a letter to my future self helped me reflect on my current self."
+      },
+      "alex": {
+        "location": "Brisbane, Australia",
+        "message": "It would be nice if it had a few more features, but it has the bare minimum, so it's not bad."
+      }
+    }
+  },
+  "form": {
+    "title": "Write a letter to future of you",
+    "to": "Title",
+    "message": "Message",
+    "date": "Send Date",
+    "language": "Language",
+    "send": "Send to the future",
+    "validation": "All fields are required",
+    "submitted": "Message saved!",
+    "requireLogin": "Please sign in to send a message",
+    "submitFailed": "Failed to send message. Please try again",
+    "goToLogin": "Go to signin page",
+    "writeMessageTitle": "Let's write a letter to our precious selves",
+    "subText": "Let's deliver your thoughts to the future",
+    "loginRequiredMessage": "You must sign in to send a letter. You will be able to send it after signing in"
+  },
+  "form.selectDate": "Select a date",
+  "form.validation.requiredTitle": "Title is required",
+  "form.validation.maxTitle": "Title must be 30 characters or less",
+  "form.validation.requiredBody": "Body is required",
+  "form.validation.maxBody": "Body must be 1000 characters or less",
+  "form.validation.requiredDate": "Send date is required",
+  "form.validation.invalidDate": "Invalid date",
+  "form.validation.futureOnly": "Send date must be today or later",
+  "nav": {
+    "home": "Home",
+    "write": "Write a Letter",
+    "history": "Message History"
+  },
+  "history": {
+    "title": "Message History",
+    "sentDate": "Sent on",
+    "view": "View",
+    "delete": "Delete",
+    "deleted": "Message deleted",
+    "deleteError": "Failed to delete message",
+    "confirmDelete": "Are you sure you want to delete this message?",
+    "requireLogin": "You must sign in to view your message history",
+    "empty": "No messages found",
+    "comeBackLater": "Come back later to see your messages"
+  },
+  "loading": "Loading...",
+  "view": {
+    "unauthorized": "You are not authorized to view this message",
+    "sentDate": "Sent on",
+    "backToHistory": "Back to History",
+    "notYet": "This message is not yet available. Please wait until the scheduled date",
+    "openingMessage": "Here’s the letter you’ve been waiting for"
+  },
+  "history.confirmDeleteTitle": "Delete Message",
+  "history.confirmDelete": "Are you sure you want to delete this message? This action cannot be undone",
+  "cancel": "Cancel",
+  "delete": "Delete",
+  "notFound": {
+    "title": "Page Not Found",
+    "message": "The page you are looking for doesn’t exist or may have been moved",
+    "backHome": "Back to Home"
+  }
+}
