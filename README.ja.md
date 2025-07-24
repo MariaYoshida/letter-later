@@ -1,8 +1,9 @@
 # LetterLater ✉️
+> 🇬🇧 English version → [README.md](./README.md)
 
 **LetterLater** は、未来の自分宛に手紙を書くことができる Web アプリケーションです。メッセージの作成・送信予約・履歴確認などの機能を備えたポートフォリオ向けプロジェクトです。
 
-> 🇬🇧 English version → [README.md](./README.md)
+👉 **Live Demo**: [https://letterlater.netlify.app](https://letterlater.netlify.app)
 
 ---
 
